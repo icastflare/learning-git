@@ -1,0 +1,33 @@
+Linux Commands
+	cd
+		Change directory. (i.e. cd ~)
+	ls
+		List contents of current directory. Use -a flag to see hidden files.
+	mkdir
+		Create a new folder. (i.e. chown new-folder)
+	chown
+		Change ownership of a file or folder. (i.e. sudo chown jonah folder-name)
+	
+
+
+Linux Shortcuts
+	~
+		Shortcut to your linux home directory
+	/mnt/c/Users/jnhcl
+		Path to your windows home directory
+
+
+Git Commands
+	git clone <repo-name-url>
+		Downloads a git repository to your computer.
+	git status
+		Tells you what branch you're on, what files you've changed, and what chamges have been committed or are ready to be committed.
+	git add
+		Use this command to tell git what files and changes you want to be included in your commit.
+	git commit
+		Creates a commit. You need to do this before pushing changes to a remote branch.
+	git push
+		Pushes your commits to the remote repository stored on github. You need to do this so your partners can see your changes.
+	git pull
+		Pulls changes from the remote repository to your computer. You need to do this to see contributions made by your partners. Always git pull before pushing.
+	
