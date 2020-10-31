@@ -31,3 +31,6 @@ Git Commands
 	git pull
 		Pulls changes from the remote repository to your computer. You need to do this to see contributions made by your partners. Always git pull before pushing.
 	
+
+
+Have a nice day.
